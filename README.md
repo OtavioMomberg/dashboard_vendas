@@ -16,6 +16,9 @@ mostrando a quantidade recebida da venda anual, trimestral e mensal
 | EA Play Season Pass | Minicraft Season Pass | Minicraft Season Pass Price | Coupon Value | Total Value | 
 | --- | --- | --- | --- | --- |
 
+![base](https://github.com/OtavioMomberg/dashboard_vendas/blob/main/images/base.png)
+- ***dados meramente ilustrativos**
+
 # organização e ferramentas 🛠️
 
 - O projeto foi desenvolvido utilizando o Excel
@@ -25,3 +28,6 @@ mostrando a quantidade recebida da venda anual, trimestral e mensal
     - **base**: aba para armazenar a base de dados utilizada para a criação do dashboard;
     - **cálculos**: aba para realizar os cálculos necessários para transformar os dados em informações de acordo com as perguntas de negócio;
     - **dashboard**: aba na qual o dashboard foi construído de fato.
+ 
+ # resultado do dashboard 🎯
+ ![dashboard](https://github.com/OtavioMomberg/dashboard_vendas/blob/main/images/dashboard.png)
